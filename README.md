@@ -1,13 +1,14 @@
-## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+## Welcome to awesome game of Tetris
+
+You can play the game on the GitHub Pages site for this repository.
 
 To play the game:
 1. Go to the **Settings** tab of this repository.
-1. Scroll down to the section titled _GitHub Pages_
-1. Select **Master** from the Source drop-down.
-1. Click **Save**.
-1. Navigate to the URL provided in the same section.
+2. Scroll down to the section titled _GitHub Pages_
+3. Select **Master** from the Source drop-down.
+4. Click **Save**.
+5. Navigate to the URL provided in the same section.
 
 ### Instructions for playing the game
 
